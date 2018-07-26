@@ -117,6 +117,7 @@ The camera is powered by a USB fixed in the handle, with a 1 m extender availabl
 | 1 | Headphones | To check recording audio is working |
 | 1 | Laser Pointer | For speakers if necessary |
 | 10 | Assorted Marker Pens | |
+| 1 | Multiline power adaptor | For recording setup, can try and get from support |
 ---
 
 ## Misc.
