@@ -127,7 +127,7 @@ The camera is powered by a USB fixed in the handle, with a 1 m extender availabl
 **todo**:
 - T-shirts
     - clothes2order
-    - Account: alan.saul@shef.ac.uk
+    - Account: my email
     - Fitted / Straight cut
 - Stationary
     - Pads of paper
