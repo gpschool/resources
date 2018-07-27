@@ -106,18 +106,19 @@ The camera is powered by a USB fixed in the handle, with a 1 m extender availabl
 | 1 | VGA `[M]` → HDMI/aux `[F,F]` | VGA/HDMI conversion, requires power, needs USB charger |
 
 #### We need to get the following
-| # | Item | Notes |
-|---|------|-------|
-| 2 | USB power chargers | For camera and VGA/HDMI conversion |
-| 1 | mini DisplayPort `[M]` → HDMI `[F]` adaptor | Laptop output adaptor |
-| 1 | DisplayPort `[M]` → HDMI `[F]` adaptor | Laptop output adaptor |
-| 1 | USB-C `[M]` → HDMI `[F]` adaptor | Laptop output adaptor |
-| 1 | DVI `[M]` → HDMI `[F]` adaptor | Laptop output adaptor |
-| 1 | Power passport | If speaker does not have UK plug |
-| 1 | Headphones | To check recording audio is working |
-| 1 | Laser Pointer | For speakers if necessary |
-| 10 | Assorted Marker Pens | |
-| 1 | Multiline power adaptor | For recording setup, can try and get from support |
+| # | Item | Notes | Link |
+|---|------|-------|------|
+| 2 | USB power chargers | For camera and VGA/HDMI conversion | [amazon](https://www.amazon.co.uk/SOAIY-Charger-Plug-Adapter-Black/dp/B078RGYH8B/ref=sr_1_8?ie=UTF8&qid=1532685735&sr=8-8&keywords=usb%2Bpower%2Badaptor&th=1) |
+| 1 | mini DisplayPort `[M]` → HDMI `[F]` adaptor | Laptop output adaptor | [amazon](https://www.amazon.co.uk/Rankie-DisplayPort-Thunderbolt-Adapter-Resolution-Black/dp/B010SDAXUK/ref=sr_1_4?ie=UTF8&qid=1532685268&sr=8-4&keywords=mini+displayport+to+hdmi) |
+| 1 | DisplayPort `[M]` → HDMI `[F]` adaptor | Laptop output adaptor | [amazon](https://www.amazon.co.uk/Displayport-Adapter-Benfei-Display-Converter/dp/B017Q8ZVWK/ref=sr_1_3?ie=UTF8&qid=1532685285&sr=8-3&keywords=displayport+to+hdmi)| 
+| 1 | USB-C `[M]` → HDMI `[F]` adaptor | Laptop output adaptor | [amazon](https://www.amazon.co.uk/HDMI-Adapter-60Hz-PRIME-SALE/dp/B075V68NVR/ref=sr_1_6?s=computers&ie=UTF8&qid=1532685388&sr=1-6&keywords=usb-c+to+hdmi) |
+| 1 | DVI `[M]` → HDMI `[F]` adaptor | Laptop output adaptor | [amazon](https://www.amazon.co.uk/UGREEN-Adapter-Support-Raspberry-Projector/dp/B00B2HORS6/ref=sr_1_10?s=computers&ie=UTF8&qid=1532685441&sr=1-10&keywords=dvi+to+hdmi) | 
+| 1 | Power passport | If speaker does not have UK plug | [amazon](https://www.amazon.co.uk/Worldwide-Adapter-BEZ-International-Charging-Black/dp/B01J18QF6E/ref=sr_1_4?ie=UTF8&qid=1532685558&sr=8-4&keywords=power+adaptor) | 
+| 1 | Headphones | To check recording audio is working | [amazon](https://www.amazon.co.uk/Betron-Headphones-Earphones-Smartphones-Microphone-Black/dp/B00P89DXYI/ref=sr_1_3?ie=UTF8&qid=1532685599&sr=8-3&keywords=headphones) |
+| 1 | Laser Pointer | For speakers if necessary | [amazon](https://www.amazon.co.uk/Rechargeable-Presentation-Presenter-Compatible-Android-black-black/dp/B072X8KQ1P/ref=sr_1_7?s=electronics&ie=UTF8&qid=1532685627&sr=1-7&keywords=laser+pointer) |
+| 12 | Assorted Marker Pens | | [amazon](https://www.amazon.co.uk/STAEDTLER-351WP6-Lumocolour-Whiteboard-Multicolor/dp/B000KJMJ5K/ref=sr_1_3?ie=UTF8&qid=1532685661&sr=8-3&keywords=board%2Bmarkers&th=1) |
+| 1 | Multiline power adaptor | For recording setup, can try and get from support | |
+
 ---
 
 ## Misc.
