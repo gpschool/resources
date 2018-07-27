@@ -133,6 +133,6 @@ The camera is powered by a USB fixed in the handle, with a 1 m extender availabl
 - Stationary
     - Pads of paper
         - Looking into better bound options
-    - Lanyards / name badge holders [amazon link](https://www.amazon.co.uk/Lanyards-Badge-Card-Holders-Vertical/dp/B07C7YGY4S/ref=sr_1_8?ie=UTF8&qid=1532686346&sr=8-8&keywords=lanyard&th=1)
+    - Lanyards / name badge holders [amazon link](https://www.amazon.co.uk/Badge-Card-Holders-Black-Lanyards/dp/B073QLQ8BH/ref=pd_sbs_229_1?_encoding=UTF8&pd_rd_i=B073QLQ8BH&pd_rd_r=9be60160-9185-11e8-b123-9b8a07b4d4b1&pd_rd_w=znCNt&pd_rd_wg=D3Epb&pf_rd_i=desktop-dp-sims&pf_rd_m=A3P5ROKL5A1OLE&pf_rd_p=5179604776422437276&pf_rd_r=V7XKEPQ21HGP99WF0QHC&pf_rd_s=desktop-dp-sims&pf_rd_t=40701&psc=1&refRID=V7XKEPQ21HGP99WF0QHC)
     - Pens / pencil
         - branded ?
