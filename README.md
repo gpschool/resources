@@ -133,7 +133,6 @@ The camera is powered by a USB fixed in the handle, with a 1 m extender availabl
 - Stationary
     - Pads of paper
         - Looking into better bound options
-    - Lanyards / name badge holders
-    - Marker pens
+    - Lanyards / name badge holders [amazon link](https://www.amazon.co.uk/Lanyards-Badge-Card-Holders-Vertical/dp/B07C7YGY4S/ref=sr_1_8?ie=UTF8&qid=1532686346&sr=8-8&keywords=lanyard&th=1)
     - Pens / pencil
         - branded ?
