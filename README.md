@@ -6,7 +6,7 @@
 ### Notebooks
 Notebooks and answers are in the [`lab` directory](./lab). Some changes from last year:
 
-#### Lab 1 [COMPLETE]: Gaussian Process Regression [link](http://nbviewer.jupyter.org/github/wilocw/gpss18_resources/blob/master/lab/GPSS%20Lab%201.ipynb)
+#### Lab 1 [COMPLETE]: Gaussian Process Regression [[blank](http://nbviewer.jupyter.org/github/wilocw/gpss18_resources/blob/master/lab/GPSS%20Lab%201.ipynb), [answers](http://nbviewer.jupyter.org/github/wilocw/gpss18_resources/blob/master/lab/GPSS%20Lab%201%20Answers.ipynb)]
 - Support for Python 3.5+ only
     - This is not essential, but notebooks require some adaptation to change
     - Uses Python 3 specific styling, and have made use of `@` for matrix multiplication, amongst others
