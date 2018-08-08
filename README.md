@@ -6,7 +6,7 @@
 ### Notebooks
 Notebooks and answers are in the [`lab` directory](./lab). Some changes from last year:
 
-#### Lab 1: Gaussian Process Regression [link](./lab/GPSS%20Lab%201%20Answers.ipynb)
+#### Lab 1 [COMPLETE]: Gaussian Process Regression [link](./lab/GPSS%20Lab%201.ipynb)
 - Support for Python 3.5+ only
     - This is not essential, but notebooks require some adaptation to change
     - Uses Python 3 specific styling, and have made use of `@` for matrix multiplication, amongst others
@@ -24,9 +24,8 @@ Notebooks and answers are in the [`lab` directory](./lab). Some changes from las
         - Not clear of purpose, documentation lacking
         - Could be moved into a separate notebook as _extra work_
     - Added short 2-D example similar to Rich's
+        - Shows using isotropic kernels and mentions ARD parameter
         - Shows using product of two kernels with different active dimensions
-        - Shows using isotropic kernels
-        - Needs a bit of polishing
 - Removed all use of `m.plot()` and GPy's inbuilt plotting tools
     - Provided a transparent and _short_ function for plotting GP posterior given X, mean and covariance matrix
     - Show how to access these directly from model
@@ -46,8 +45,6 @@ Notebooks and answers are in the [`lab` directory](./lab). Some changes from las
     1. Extrapolating with a GP, embedding prior knowledge for a better
     1. Fitting combinations of kernels to the Mauna Loa dataset
     1. Improving the fit
-
-- Needs polishing and a bit of extra text
 
 #### Lab 2 : Non-Gaussian likelihoods / classification
 - @Fariba
@@ -125,14 +122,14 @@ The camera is powered by a USB fixed in the handle, with a 1 m extender availabl
 
 ### Orders
 
-**todo**:
 - T-shirts
-    - clothes2order
-    - Account: my email
-    - Fitted / Straight cut
-- Stationary
-    - Pads of paper
-        - Looking into better bound options
-    - Lanyards / name badge holders [amazon link](https://www.amazon.co.uk/Badge-Card-Holders-Black-Lanyards/dp/B073QLQ8BH/ref=pd_sbs_229_1?_encoding=UTF8&pd_rd_i=B073QLQ8BH&pd_rd_r=9be60160-9185-11e8-b123-9b8a07b4d4b1&pd_rd_w=znCNt&pd_rd_wg=D3Epb&pf_rd_i=desktop-dp-sims&pf_rd_m=A3P5ROKL5A1OLE&pf_rd_p=5179604776422437276&pf_rd_r=V7XKEPQ21HGP99WF0QHC&pf_rd_s=desktop-dp-sims&pf_rd_t=40701&psc=1&refRID=V7XKEPQ21HGP99WF0QHC)
-    - Pens / pencil
-        - branded ?
+    - **ORDERED**
+    - Due 13-16 August
+- Branded stationary
+    - Pads of paper **ORDERED 100**
+    - Pens **ORDERED**
+-Lanyards
+    - To order
+    - [Amazon link](https://www.amazon.co.uk/Badge-Card-Holders-Black-Lanyards/dp/B073QLQ8BH/ref=pd_sbs_229_1?_encoding=UTF8&pd_rd_i=B073QLQ8BH&pd_rd_r=9be60160-9185-11e8-b123-9b8a07b4d4b1&pd_rd_w=znCNt&pd_rd_wg=D3Epb&pf_rd_i=desktop-dp-sims&pf_rd_m=A3P5ROKL5A1OLE&pf_rd_p=5179604776422437276&pf_rd_r=V7XKEPQ21HGP99WF0QHC&pf_rd_s=desktop-dp-sims&pf_rd_t=40701&psc=1&refRID=V7XKEPQ21HGP99WF0QHC)
+    - Holds name badge of size : 8.5 x 5.5 cm  / 3.35 x 2.2 inches
+
