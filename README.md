@@ -54,6 +54,8 @@ Notebooks and answers are in the [`lab` directory](./lab). Some changes from las
     - Alternatively just check demos for GPy, GPFlow, gpytorch, etc.
 - Proof-read accompanying text and check code works as expected
 - Draft answers to questions
+- Citation for Banana dataset (to add):
+    - > J. Alcalá-Fdez, A. Fernandez, J. Luengo, J. Derrac, S. García, L. Sánchez, F. Herrera. KEEL Data-Mining Software Tool: Data Set Repository, Integration of Algorithms and Experimental Analysis Framework. Journal of Multiple-Valued Logic and Soft Computing 17:2-3 (2011) 255-287.
 
 #### Lab 3 : Bayesian optimisation
 - @Mauricio
