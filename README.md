@@ -46,8 +46,14 @@ Notebooks and answers are in the [`lab` directory](./lab). Some changes from las
     1. Fitting combinations of kernels to the Mauna Loa dataset
     1. Improving the fit
 
-#### Lab 2 : Non-Gaussian likelihoods / classification
-- @Fariba
+#### Lab 2 : Non-Gaussian likelihoods / classification [[draft](http://nbviewer.jupyter.org/github/wilocw/gpss18_resources/blob/master/lab/GPSS%20Lab%202%20Answers.ipynb)]
+- `WIP`
+- Need to check with Python 3.5+
+- Need to add non-classification problem (non-sparse example of non-Gaussian likelihood)
+    - There's a good example on a document I read recently that uses a negative binomial likelihood so I could adapt this if need be
+    - Alternatively just check demos for GPy, GPFlow, gpytorch, etc.
+- Proof-read accompanying text and check code works as expected
+- Draft answers to questions
 
 #### Lab 3 : Bayesian optimisation
 - @Mauricio
