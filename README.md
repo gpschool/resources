@@ -48,17 +48,18 @@ Notebooks and answers are in the [`lab` directory](./lab). Some changes from las
 
 #### Lab 2 : Non-Gaussian likelihoods / classification [[draft](http://nbviewer.jupyter.org/github/wilocw/gpss18_resources/blob/master/lab/GPSS%20Lab%202%20Answers.ipynb)]
 - `WIP`
-- Need to check with Python 3.5+
-- Need to add non-classification problem (non-sparse example of non-Gaussian likelihood)
-    - There's a good example on a document I read recently that uses a negative binomial likelihood so I could adapt this if need be
-    - Alternatively just check demos for GPy, GPFlow, gpytorch, etc.
-- Proof-read accompanying text and check code works as expected
-- Draft answers to questions
-- Citation for Banana dataset (to add):
-    - > J. Alcalá-Fdez, A. Fernandez, J. Luengo, J. Derrac, S. García, L. Sánchez, F. Herrera. KEEL Data-Mining Software Tool: Data Set Repository, Integration of Algorithms and Experimental Analysis Framework. Journal of Multiple-Valued Logic and Soft Computing 17:2-3 (2011) 255-287.
+- Non- Gaussian Likelihoods introduction, with Student's t, Bernoulli examples and 2D classification example
+- Sparse GPs with small comparative example and longer sparse exercise
+- TODO:
+  - write short description of SVI for SGPs based on removed example
+  - waiting for any response by Zhenwen but will complete over weekend if not
 
-#### Lab 3 : Bayesian optimisation
-- @Mauricio
+#### Lab 3 : Bayesian optimisation [[blank](http://nbviewer.jupyter.org/github/wilocw/gpss18_resources/blob/master/lab/GPSS%20Lab%203.ipynb), [answers](http://nbviewer.jupyter.org/github/wilocw/gpss18_resources/blob/master/lab/GPSS%20Lab%203%20Answers.ipynb)]
+-  Written by Javier
+- TODO: 
+  - check for bugs, and fix
+  - clean up text
+  - minor tweaks to format for consistency
 
 ---
 ## Equipment
