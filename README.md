@@ -1,4 +1,4 @@
-# GPSS 2018 : Labs and Resources
+# GPSS : Labs and Resources
 ---
 
 ## Labs
@@ -6,37 +6,10 @@
 ### Notebooks
 Notebooks and answers are in the [`lab` directory](./lab). Some changes from last year:
 
-#### Lab 1 [COMPLETE]: Gaussian Process Regression [[blank](http://nbviewer.jupyter.org/github/wilocw/gpss18_resources/blob/master/lab/GPSS%20Lab%201.ipynb), [answers](http://nbviewer.jupyter.org/github/wilocw/gpss18_resources/blob/master/lab/GPSS%20Lab%201%20Answers.ipynb)]
+#### Lab 1: Gaussian Process Regression
 - Support for Python 3.5+ only
     - This is not essential, but notebooks require some adaptation to change
     - Uses Python 3 specific styling, and have made use of `@` for matrix multiplication, amongst others
-- Updated examples
-    - Changed real-world example from marathon data to Mauna Loa
-        - Based on Rich's notebooks
-        - Used primarily to demonstrate kernel choice and combinations of kernels
-        - Removed the mean function stuff from Rich's examples
-        - Motivation: recognisable case study, good examples of different trends, e.g. linear(ish) growth, periodicity, non-linear aspects, Gaussian likelihood
-    - Given some more intuitive examples of summing / multiplying kernels
-    - Shown how to sample kernels and given examples of different kinds samples before exercise on identifying kernels based on samples
-    - Added explicit calculation of GP posterior using GP equations before introducing GPy as a tool
-    - Added exercise showing how bad prediction is for extrapolation, and also briefly introduced the concept of incorporating known info into kernel choice (in this case, periodicity), before explicitly doing it in Mauna Loa example
-    - Removed the section on Uncertainty propagation
-        - Not clear of purpose, documentation lacking
-        - Could be moved into a separate notebook as _extra work_
-    - Added short 2-D example similar to Rich's
-        - Shows using isotropic kernels and mentions ARD parameter
-        - Shows using product of two kernels with different active dimensions
-- Removed all use of `m.plot()` and GPy's inbuilt plotting tools
-    - Provided a transparent and _short_ function for plotting GP posterior given X, mean and covariance matrix
-    - Show how to access these directly from model
-    - Avoid using GPy plotting because:
-        - Not clear what it's actually showing
-        - Documentation bad
-        - Hard to use in notebooks, no control over plot canvas
-        - GPy is not a plotting library, generally not good practise to use it for plotting (imo)
-        - Show how to get predictions, and parameters, so it's clear what is actually being plotted
-- Rewritten a lot of text for clarity and correctness
-    - Lots of incorrect code examples in text had been carried on over years, have confirmed correctness of everything now
 - Exercises:
     1. Effects of parameters on (RBF) kernel
     1. Modelling with and validity of combined kernels
@@ -46,20 +19,13 @@ Notebooks and answers are in the [`lab` directory](./lab). Some changes from las
     1. Fitting combinations of kernels to the Mauna Loa dataset
     1. Improving the fit
 
-#### Lab 2 : Non-Gaussian likelihoods / classification [[draft](http://nbviewer.jupyter.org/github/wilocw/gpss18_resources/blob/master/lab/GPSS%20Lab%202%20Answers.ipynb)]
-- `WIP`
-- Non- Gaussian Likelihoods introduction, with Student's t, Bernoulli examples and 2D classification example
+#### Lab 2 : Non-Gaussian likelihoods / classification
+- Non-Gaussian Likelihoods introduction, with Student's t, Bernoulli examples and 2D classification example
 - Sparse GPs with small comparative example and longer sparse exercise
-- TODO:
-  - write short description of SVI for SGPs based on removed example
-  - waiting for any response by Zhenwen but will complete over weekend if not
+- No SVI
 
-#### Lab 3 : Bayesian optimisation [[blank](http://nbviewer.jupyter.org/github/wilocw/gpss18_resources/blob/master/lab/GPSS%20Lab%203.ipynb), [answers](http://nbviewer.jupyter.org/github/wilocw/gpss18_resources/blob/master/lab/GPSS%20Lab%203%20Answers.ipynb)]
+#### Lab 3 : Bayesian optimisation
 -  Written by Javier
-- TODO: 
-  - check for bugs, and fix
-  - clean up text
-  - minor tweaks to format for consistency
 
 ---
 ## Equipment
@@ -111,28 +77,24 @@ The camera is powered by a USB fixed in the handle, with a 1 m extender availabl
 | 1 | VGA `[F]` → VGA `[F]` | VGA/HDMI conversion |
 | 1 | VGA `[M]` → HDMI/aux `[F,F]` | VGA/HDMI conversion, requires power, needs USB charger |
 | 2 | USB power chargers | For camera and VGA/HDMI conversion |
-| 1 | mini DisplayPort `[M]` → HDMI `[F]` adaptor | Laptop output adaptor | 
+| 1 | mini DisplayPort `[M]` → HDMI `[F]` adaptor | Laptop output adaptor |
 | 1 | DisplayPort `[M]` → HDMI `[F]` adaptor | Laptop output adaptor |
-| 1 | USB-C `[M]` → HDMI `[F]` adaptor | Laptop output adaptor | 
-| 1 | DVI `[M]` → HDMI `[F]` adaptor | Laptop output adaptor | 
-| 1 | Power passport | If speaker does not have UK plug | 
-| 1 | Headphones | To check recording audio is working | 
-| 1 | Laser Pointer | For speakers if necessary | 
+| 1 | USB-C `[M]` → HDMI `[F]` adaptor | Laptop output adaptor |
+| 1 | DVI `[M]` → HDMI `[F]` adaptor | Laptop output adaptor |
+| 1 | Power passport | If speaker does not have UK plug |
+| 1 | Headphones | To check recording audio is working |
+| 1 | Laser Pointer | For speakers if necessary |
 | 12 | Assorted Marker Pens | |
 | 1 | Multiline power adaptor | For recording setup, can try and get from support (TO GET) | |
 ---
 
 ## Misc.
 
-### Orders
+### Orders (to be done each year)
 
 - T-shirts
-    - **ORDERED AND RECEIVED**
-    - Due 13-16 August
 - Branded stationary
-    - Pads of paper **ORDERED AND RECEIVED 100**
-    - Pens **ORDERED AND RECEIVED 100**
+    - Pads of paper
+    - Pens
 - Lanyards
-    - **ORDERED AND RECEIVED**
     - Holds name badge of size : 8.5 x 5.5 cm  / 3.35 x 2.2 inches
-
